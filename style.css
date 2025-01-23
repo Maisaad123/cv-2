@@ -1,0 +1,32 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h2{
+    font-family: "Bebas Neue", serif;
+border-style:groove;
+border-width: 30px;
+border-color: beige;
+color: rgb(194, 193, 200);
+background-color: blanchedalmond;
+}
+h1{
+    border-style:groove;
+    border-width: 30px;
+    border-color: beige;
+    margin: 50px;
+    padding-left: 400px;
+    background-color: bisque;
+}
+img{
+    clip-path:circle(50% at 50%50%) ;
+}
+h3{
+    border-style:groove;
+    background-color: bisque;
+    color: rgb(44, 162, 162);}
+div:active{
+   background:royalblue ;
+}
